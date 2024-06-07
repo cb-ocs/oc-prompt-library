@@ -1,0 +1,1 @@
+Rewrite the following paragraph to eliminate unnecessary words, clarify how each sentence relates to the prior sentence, and increase readability: [INSERT PARAGRAPH]

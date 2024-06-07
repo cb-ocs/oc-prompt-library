@@ -1,0 +1,1 @@
+I’m giving a talk to in-house lawyers about how draft contracts safely using generative AI. My section will cover the best use cases and what generative AI can achieve in these areas. Give me some ideas that I could share and present them neatly in a table.
