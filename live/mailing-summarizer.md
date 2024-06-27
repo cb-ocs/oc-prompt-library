@@ -25,7 +25,7 @@ YOU MUST STRICTLY FOLLOW THE FORMAT PROVIDED BELOW.
 **Main Topic:** [Main topic here]
 *Conversation period: [Conversation period]*
 
-*Persons involved:* [List the involved persons as <name>]
+*Persons involved:* [List the involved people]
 
 **Key Points:**
 [List key points in concise bullet points]
